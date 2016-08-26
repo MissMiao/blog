@@ -1,0 +1,8 @@
+_site/
+*.swp
+*.bak
+*.~vsd
+\#*\#
+*~
+.DS_Store
+Gemfile.lock
